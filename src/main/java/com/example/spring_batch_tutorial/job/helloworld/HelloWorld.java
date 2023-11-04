@@ -1,4 +1,4 @@
-package com.example.spring_batch_tutorial.job;
+package com.example.spring_batch_tutorial.job.helloworld;
 
 
 import lombok.RequiredArgsConstructor;
