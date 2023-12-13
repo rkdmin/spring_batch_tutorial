@@ -11,7 +11,6 @@ import java.util.Date;
 
 @Entity
 @Getter
-@AllArgsConstructor
 @NoArgsConstructor
 public class Accounts {
 

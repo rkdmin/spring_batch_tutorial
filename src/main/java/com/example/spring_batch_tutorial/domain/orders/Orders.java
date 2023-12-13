@@ -11,7 +11,6 @@ import java.util.Date;
 
 @Entity
 @Getter
-@ToString
 public class Orders {
 
     @Id
@@ -20,4 +19,5 @@ public class Orders {
     private String orderItem;
     private Integer price;
     private Date orderDate;
+
 }
